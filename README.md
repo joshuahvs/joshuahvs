@@ -3,7 +3,6 @@
 🎓 Information Systems undergraduate at Universitas Indonesia  
 💡 Passionate about technology, product development, and creating solutions that make a real-world impact  
 🌱 Currently exploring **full-stack development, business & product management, and consulting**  
-🚀 Building projects like [Ulas Dosen](https://github.com/joshuahvs) to help students make better academic decisions  
 
 ---
 
