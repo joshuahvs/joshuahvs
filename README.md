@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋, I'm Joshua Hans Vito Soehendra  
 
-<!--
-**joshuahvs/joshuahvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Systems undergraduate at Universitas Indonesia  
+💡 Passionate about technology, product development, and creating solutions that make a real-world impact  
+🌱 Currently exploring **full-stack development, business & product management, and consulting**  
+🚀 Building projects like [Ulas Dosen](https://github.com/joshuahvs) to help students make better academic decisions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech & Tools
+- **Languages:** Python, Java, TypeScript, JavaScript, SQL, HTML, CSS 
+- **Frameworks & Libraries:** Next.js, React, Django, Express, TailwindCSS  
+- **Databases & Cloud:** Firebase, Firestore, Supabase, Neon, Cloud Run  
+- **Other:** Git, Docker, REST APIs  
+
+---
+
+## 📊 GitHub Stats
+![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuahvs&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuahvs&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌍 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/joshuahansvitosoehendra/)  
+
+---
+⭐️ *Always curious. Always building. Always learning.*
