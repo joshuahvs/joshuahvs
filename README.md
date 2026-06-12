@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Joshua Hans Vito Soehendra  
+# Hi there 👋, I'm Joshua Hans
 
 🎓 Information Systems undergraduate at Universitas Indonesia  
 💡 Passionate about technology, product development, and creating solutions that make a real-world impact  
