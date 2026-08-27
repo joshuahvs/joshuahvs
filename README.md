@@ -14,12 +14,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuahvs&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuahvs&layout=compact&theme=tokyonight)  
-
----
-
 ## 🌍 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/joshuahansvitosoehendra/)  
 
